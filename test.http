@@ -1,0 +1,11 @@
+PUT /intern/update/60295bb56e549f586321157f
+Host: localhost:2021
+Content-Type: application/json
+
+{
+"firstName": "update one",
+"lastName": "olalekan",
+"email": "ola@hng.com",
+"phone": "01342625",
+"about": "writing for hng and zuri team"
+}
